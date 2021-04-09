@@ -1,6 +1,6 @@
 name: smoothie
-description: Create and sample a smooth Bézier curve going through a given set of points
-version: 0.3.0
+description: A simple curve smoothing utility. Turn a set of your data points into a smooth Bézier curve in one line of code.
+version: 0.3.0+1
 homepage: https://github.com/kreitai/smoothie
 
 environment:

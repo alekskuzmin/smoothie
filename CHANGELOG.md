@@ -1,3 +1,8 @@
+## [0.3.0+1] - 2021-04-09
+
+### Updated description
+Updated the description for better discoverability.
+
 ## [0.3.0] - 2021-04-09
 
 ### Null safety

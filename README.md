@@ -2,7 +2,7 @@
 
 # smoothie
 
-Create and sample a smooth Bézier curve going through a given set of points
+A simple curve smoothing utility. Turn a set of your data points into a smooth Bézier curve in one line of code.
 
 ## Usage
 
